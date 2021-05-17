@@ -1,0 +1,17 @@
+{
+  "name": "dilluck",
+  "version": "1.0.0",
+  "description": "backend ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dileepa Lakmina Bandara",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9"
+  }
+}
